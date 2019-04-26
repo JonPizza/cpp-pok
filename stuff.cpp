@@ -9,7 +9,7 @@ int main() {
   cout << endl << "Thanks for the number!" << endl;
   cout << "Now, you need to tell me wat exactly 1/2 of your number was: ";
   cin >> answer;
-  if (answer == (num/2) {
+  if (answer == (num/2)) {
     cout << "Good Job!" << endl; 
   } else {
     cout << "WRONG!" << endl; 
