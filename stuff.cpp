@@ -4,7 +4,7 @@ using namespace std;
 int main() {
   int num;
   float answer;
-  cout << "Enter an int: ";
+  cout << "Enter an even int: ";
   cin >> num;
   cout << endl << "Thanks for the number!" << endl;
   cout << "Now, you need to tell me wat exactly 1/2 of your number was: ";
